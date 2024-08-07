@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Gemma 
 
-<!--
-**gemma-martinez/gemma-martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm Gemma, a curious HR professional venturing into the tech world. I'm currently building my portfolio and excited to explore  how tech and HR can work together. I love learning new things and I'm all about using tech to make work better and more fun for everyone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+I'm diving into **data analysis** and working on projects that showcase my growing skills.
+
+## 🎯 Future Goals
+
+- Build a robust portfolio of tech projects
+- Integrate tech solutions into HR practices
+- Continuously learn and adapt to new technologies
+
+## 📫 Contact
+
+Feel free to connect with me:
+
+- Email: [maralgem@gmail.com](mailto:maralgem@gmail.com)
+- LinkedIn: [Gemma's LinkedIn Profile](https://linkedin.com/in/gemma-martínez-almenar-bb3403b8/)
