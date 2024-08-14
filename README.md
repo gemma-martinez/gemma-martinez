@@ -6,7 +6,7 @@ I'm Gemma, a curious HR professional venturing into the tech world. I'm currentl
 
 ## 🌱 Currently Learning
 
-I'm diving into **data analysis** and working on projects that showcase my growing skills.
+I'm diving into **Data Analytics** and working on projects that showcase my growing skills.
 
 ## 🎯 Future Goals
 
