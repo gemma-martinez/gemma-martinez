@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Gemma, a curious HR professional venturing into the tech world. I'm currently building my portfolio and excited to explore  how tech and HR can work together. I love learning new things and I'm all about using tech to make work better and more fun for everyone.
+I'm Gemma, HR professional venturing into the tech world. I'm currently building my portfolio and excited to explore how tech and HR can work together. I love learning new things and I'm all about using tech to make work better and more fun for everyone.
 
 ## 🌱 Currently Learning
 
